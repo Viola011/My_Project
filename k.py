@@ -5,3 +5,4 @@ for i in range(0,1000000):
 et = time.time()
 t = et - st
 print('time:', t)
+print('что-то умное')
