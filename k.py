@@ -6,3 +6,4 @@ et = time.time()
 t = et - st
 print('time:', t)
 print('что-то умное')
+print('fjmvogru rauej9ouAHUSF')
